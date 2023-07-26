@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Cryptocurrency-Live-Dashboard/static/css/main.e6c13ad2.css",
-    "main.js": "/Cryptocurrency-Live-Dashboard/static/js/main.a89cfb29.js",
+    "main.css": "/Cryptocurrency-Live-Dashboard/static/css/main.a2c5471f.css",
+    "main.js": "/Cryptocurrency-Live-Dashboard/static/js/main.08d553ca.js",
     "static/js/787.545aecf5.chunk.js": "/Cryptocurrency-Live-Dashboard/static/js/787.545aecf5.chunk.js",
     "index.html": "/Cryptocurrency-Live-Dashboard/index.html",
-    "main.e6c13ad2.css.map": "/Cryptocurrency-Live-Dashboard/static/css/main.e6c13ad2.css.map",
-    "main.a89cfb29.js.map": "/Cryptocurrency-Live-Dashboard/static/js/main.a89cfb29.js.map",
+    "main.a2c5471f.css.map": "/Cryptocurrency-Live-Dashboard/static/css/main.a2c5471f.css.map",
+    "main.08d553ca.js.map": "/Cryptocurrency-Live-Dashboard/static/js/main.08d553ca.js.map",
     "787.545aecf5.chunk.js.map": "/Cryptocurrency-Live-Dashboard/static/js/787.545aecf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.a89cfb29.js"
+    "static/css/main.a2c5471f.css",
+    "static/js/main.08d553ca.js"
   ]
 }
